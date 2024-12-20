@@ -1,3 +1,3 @@
 # Finetuned_Text_to_Music
 
-Currently working on it will be updating soon
+you will find the github link here - https://github.com/Anonymous-2025-students/Text-To-Music
